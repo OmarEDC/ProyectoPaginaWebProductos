@@ -1,0 +1,46 @@
+body{
+    background: blue;
+    
+}
+
+header{
+    background:orange;
+    width:500px;
+    height: 200px;
+}
+
+#logo{
+    background: palegreen;
+    width: 150px;
+    height: 200px;
+    float:left;
+
+}
+
+#banner{
+    background: palevioletred;
+    width:350px;
+    height: 200px;
+    float: left;
+}
+
+main{
+    /*border: 5px solid black;*/
+    background: white;
+    width: 500px;
+    height: 600px;
+}
+
+#ContenidoSuperiorIzquierda{
+    background: black;
+    width:150px;
+    height: 250px;
+    float:left;
+}
+
+#ContenidoSuperior{
+    background: burlywood;
+    width: 350px;
+    height: 230px;
+    float:left;
+}
